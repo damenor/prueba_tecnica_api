@@ -4,8 +4,7 @@
 	"description": "Prueba técnica de David Menor",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js",
-		"start-dev": "nodemon index.js"
+		"start": "nodemon index.js",
 	},
 	"author": "David Menor Molina",
 	"license": "ISC",

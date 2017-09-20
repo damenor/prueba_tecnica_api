@@ -26,7 +26,7 @@ app.use((req, res, next)=>{
 app.use('/api', clientRoutes);
 app.use('/api', policieRoutes);
 
-app.get('/info', (req, res)=>{
+app.get('/api/info', (req, res)=>{
 	res.status(200).send({ 
 		url: 'http://localhost:3790/api/', 
 		routes: {
