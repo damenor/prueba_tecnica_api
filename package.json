@@ -1,0 +1,21 @@
+{
+	"name": "prueba_david_menor",
+	"version": "1.0.0",
+	"description": "Prueba técnica de David Menor",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"start-dev": "nodemon index.js"
+	},
+	"author": "David Menor Molina",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.18.1",
+		"express": "^4.15.4",
+		"jwt-simple": "^0.5.1",
+		"moment": "^2.18.1"
+	},
+	"devDependencies": {
+		"nodemon": "^1.12.1"
+	}
+}
