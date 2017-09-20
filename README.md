@@ -9,7 +9,7 @@
 
 ### Información de la API ###
 
-* http://localhost:3790/api/info
+* https://prueba-tecnica-dmm.herokuapp.com/api/info
 
 ### Inicio ###
 
